@@ -10,8 +10,8 @@ path = 'contracts/amendment-tracking.clar'
 clarity_version = 2
 epoch = 2.5
 
-[contracts.contract-creation]
-path = 'contracts/contract-creation.clar'
+[contracts.legal-entity-verification]
+path = 'contracts/legal-entity-verification.clar'
 clarity_version = 2
 epoch = 2.5
 [repl.analysis]
